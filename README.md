@@ -128,6 +128,8 @@ Building your own pipeline? These are the load-bearing pieces.
 - [WhisperX](https://github.com/m-bain/whisperX) — transcription with word timings.
 - [MediaPipe](https://github.com/google-ai-edge/mediapipe) — face detection for
   speaker-tracking crops.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — local-first
+  CLI and MCP toolkit for editable, agent-driven video timelines.
 - [Remotion](https://www.remotion.dev/) — programmatic caption and overlay rendering.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — fetching source video (respect the
   source platform's terms).
