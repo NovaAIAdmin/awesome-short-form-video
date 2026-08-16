@@ -64,6 +64,7 @@ Formats that require no camera: narrated scripts over stock or gameplay footage.
   Reddit-story and brainrot formats.
 - [Fliki](https://fliki.ai/) — Text-to-video with a large voice library.
 - [Pictory](https://pictory.ai/) — Article- and script-to-video.
+- [videos.social](https://videos.social/?utm_source=awesome-short-form-video&utm_medium=directory&utm_campaign=listing-wave-d) — Blog, PDF, or prompt to an editable faceless video (script, scenes, voiceover).
 - [Coqui TTS](https://github.com/coqui-ai/TTS) — Open-source text-to-speech, if
   you'd rather run voice generation yourself.
 - [Piper](https://github.com/rhasspy/piper) — Fast local neural TTS; good enough
