@@ -40,6 +40,8 @@ Tools that take a long video and automatically produce short vertical clips.
 - [Eklipse](https://eklipse.gg/) — Clipping specialised for gaming streams
   (Twitch, Kick), with highlight detection tuned to gameplay events.
 - [Spikes Studio](https://spikes.studio/) — Stream clipping with virality scoring.
+- [shortshort](https://www.shortshort.io/) — Clipping that cuts on sentence
+  boundaries, with speaker-tracking 9:16 reframe and word-timed captions.
 
 ## Captions and subtitles
 
