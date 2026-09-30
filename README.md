@@ -73,6 +73,9 @@ Formats that require no camera: narrated scripts over stock or gameplay footage.
 
 - [CapCut](https://www.capcut.com/) — The default free editor for short-form.
   Auto-captions, templates, mobile and desktop.
+- [ReelWorkshop](https://reelworkshop.com) — Browser compilation maker: import your
+  own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts.
+  Editing & preview free; finished MP4 export on Starter.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) —
   Full-featured NLE with a genuinely capable free version.
 - [Shotcut](https://shotcut.org/) — Open-source cross-platform editor.
