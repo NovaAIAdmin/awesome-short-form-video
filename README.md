@@ -85,13 +85,14 @@ Formats that require no camera: narrated scripts over stock or gameplay footage.
 
 No-signup utilities for the small jobs around a clip.
 
-- [YouTube transcript extractor](https://novaclipper.com/tools/youtube-transcript)
-- [Subtitle downloader (SRT/VTT/TXT)](https://novaclipper.com/tools/subtitle-downloader)
-- [Viral score checker](https://novaclipper.com/tools/viral-score-checker)
-- [Hook generator](https://novaclipper.com/tools/hook-generator)
-- [Hashtag generator](https://novaclipper.com/tools/hashtag-generator)
 - [Chapter generator](https://novaclipper.com/tools/chapter-generator)
 - [Content ROI calculator](https://novaclipper.com/tools/content-roi-calculator)
+- [FollowersAcheter.be engagement-rate calculator (French, Belgium)](https://followersacheter.be/tools/engagement-rate) — Calculate (likes + comments) against followers, reach or views from manually entered clip metrics.
+- [Hashtag generator](https://novaclipper.com/tools/hashtag-generator)
+- [Hook generator](https://novaclipper.com/tools/hook-generator)
+- [Subtitle downloader (SRT/VTT/TXT)](https://novaclipper.com/tools/subtitle-downloader)
+- [Viral score checker](https://novaclipper.com/tools/viral-score-checker)
+- [YouTube transcript extractor](https://novaclipper.com/tools/youtube-transcript)
 
 ## Footage and audio
 
