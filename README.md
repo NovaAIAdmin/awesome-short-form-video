@@ -43,6 +43,7 @@ Tools that take a long video and automatically produce short vertical clips.
 
 ## Captions and subtitles
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com) — Search indexed YouTube transcripts for source timestamps and retrieve captions or Premium speaker-attributed transcripts; account required. ([API docs](https://arcmira.com/docs))
 - [Captions](https://www.captions.ai/) — Mobile-first captioning and AI editing.
 - [Kapwing](https://www.kapwing.com/) — Browser editor with strong subtitle
   tooling and team collaboration.
