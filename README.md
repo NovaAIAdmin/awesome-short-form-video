@@ -23,6 +23,7 @@ Contributions welcome. See [Contributing](#contributing).
 
 ## AI clipping tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 Tools that take a long video and automatically produce short vertical clips.
 
 - [Opus Clip](https://www.opus.pro/) — Clip scoring, auto-reframe, captions. The
