@@ -48,6 +48,7 @@ Tools that take a long video and automatically produce short vertical clips.
   tooling and team collaboration.
 - [Descript](https://www.descript.com/) — Transcript-as-timeline editing; edit
   video by editing text.
+- [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) — Local SDH and Chinese-to-English subtitle review with SRT/ITT export; MIT public preview, no account for existing-subtitle review, optional cloud AI may cost money.
 - [Whisper](https://github.com/openai/whisper) — Open-source speech recognition;
   the model most captioning tools are built on or benchmarked against.
 - [WhisperX](https://github.com/m-bain/whisperX) — Whisper with accurate
