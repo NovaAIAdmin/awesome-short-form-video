@@ -68,6 +68,9 @@ Formats that require no camera: narrated scripts over stock or gameplay footage.
   you'd rather run voice generation yourself.
 - [Piper](https://github.com/rhasspy/piper) — Fast local neural TTS; good enough
   for narration and runs on modest hardware.
+- [Skillnai](https://skillnai.com) — Agent skills that render faceless YouTube/TikTok
+  MP4s locally (Claude Code/Cursor). Free starters at
+  https://github.com/Cheng-liuliu/skillnai-free-skills.
 
 ## Editors
 
