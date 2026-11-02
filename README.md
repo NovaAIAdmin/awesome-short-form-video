@@ -27,6 +27,7 @@ Tools that take a long video and automatically produce short vertical clips.
 
 - [Opus Clip](https://www.opus.pro/) — Clip scoring, auto-reframe, captions. The
   category's most widely used tool.
+- [Repostit Clips](https://repostit.io/clips/) — Finds and scores highlights in long videos, then schedules short clips across social apps.
 - [Nova](https://novaclipper.com) — Clipping plus faceless generation in one
   tool; face-aware reframing, word-by-word captions, split-screen layouts, and
   EDL/FCPXML export to Premiere/Final Cut/Resolve.
