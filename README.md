@@ -44,6 +44,7 @@ Tools that take a long video and automatically produce short vertical clips.
 ## Captions and subtitles
 
 - [Captions](https://www.captions.ai/) — Mobile-first captioning and AI editing.
+- [Barz Studio](https://barzvideo.com/?utm_source=novaaiadmin-awesome-short-form-video&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Kapwing](https://www.kapwing.com/) — Browser editor with strong subtitle
   tooling and team collaboration.
 - [Descript](https://www.descript.com/) — Transcript-as-timeline editing; edit
