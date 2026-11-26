@@ -48,6 +48,7 @@ Tools that take a long video and automatically produce short vertical clips.
   tooling and team collaboration.
 - [Descript](https://www.descript.com/) — Transcript-as-timeline editing; edit
   video by editing text.
+- [Vertical Caption Kit](https://github.com/kalidatuna/video-editing-samples/tree/main/products/vertical-caption-kit) — Editable ASS subtitle styles for 1080×1920 video.
 - [Whisper](https://github.com/openai/whisper) — Open-source speech recognition;
   the model most captioning tools are built on or benchmarked against.
 - [WhisperX](https://github.com/m-bain/whisperX) — Whisper with accurate
